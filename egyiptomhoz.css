@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(képek/egyiptomihatter.jpg);
+}
+
+#tartalom{
+    background-color: #dbba6b;
+    max-width: 650px;
+    margin: auto;
+    min-height: 150vh;
+  
+}
+
+h1,h2{
+    text-align: center;
+    color: brown;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+p{
+    color: brown;
+}
+.float-right{
+    float: right;
+    margin-left: 12px;
+}
+
+.float-left{
+    float: left;
+    margin-right: 12px;
+}
